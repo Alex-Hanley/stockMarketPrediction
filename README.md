@@ -14,19 +14,19 @@ Needing to improve on the poor number from the first prediction, I implemented s
 Though this was my first experience with ML, I learned so much and actually loved doing it. In this, I gained many skills in the process:
 
   # 1. Data Collection and Cleaning:
-    Acquiring large sums of data
-    Cleaning, processing, and handling data with inconsistencies, missing values, etc.
+    1. Acquiring large sums of data
+    2. Cleaning, processing, and handling data with inconsistencies, missing values, etc.
   # 2. Presenting relevant data using multiple Python libraries:
-     Used Matplotlib and Pandas to create visually appealing and relevant graphs.
+     1. Used Matplotlib and Pandas to create visually appealing and relevant graphs.
   # 3. Model Selection:
-    Choosing appropriate machine learning models for time series forecasting.
-    Experimenting with regression models, decision trees, ensemble methods, and           neural networks.
+    1. Choosing appropriate machine learning models for time series forecasting.
+    2. Experimenting with regression models, decision trees, ensemble methods, and           neural networks.
   # 4. Backtesting and Validation:
-    Implementing backtesting techniques to assess the performance of the model on         historical data.
-    Validating the model on out-of-sample data to gauge its real-world predictive         ability.
+    1. Implementing backtesting techniques to assess the performance of the model on         historical data.
+    2. Validating the model on out-of-sample data to gauge its real-world predictive         ability.
   # 5. Real World Application:
-    Gaining insights into the challenges of implementing machine learning models in       real trading scenarios.
-    Understanding the impact of transaction costs, slippage, and market liquidity on      model performance.
+    1. Gaining insights into the challenges of implementing machine learning models in real trading scenarios.
+    2. Understanding the impact of transaction costs, slippage, and market liquidity on model performance.
 
 I will definitely be doing more ML and AI projects in the future. I think this was a great start!
 
